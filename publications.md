@@ -19,6 +19,9 @@ permalink: /publications/
 
 ## Journals  
 
+{% bibliography %}
+
+
 ## Conferences
 
 ## Workshops
