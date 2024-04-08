@@ -34,15 +34,15 @@ permalink: /students/
 
 ### Former PhD Students
 
-* Sarah Keren (co-supervised with Avigdor Gal) – now Assistant Professor at Technion Faculty of Computer Science
-* Ayal Taitler (co-supervised with Per-Olof Gutman) – now postdoctoral fellow at University of Toronto
+* [Sarah Keren](http://sarahekeren.wix.com/sarahkeren-academics) (co-supervised with Avigdor Gal) – now Assistant Professor at Technion Faculty of Computer Science
+* [Ayal Taitler](https://ataitler.webgr.technion.ac.il/) (co-supervised with Per-Olof Gutman) – now postdoctoral fellow at University of Toronto
 * Alexander Tuisov
 * Ronen Nir
 
   
 ### Former MSc Students
 
-* [https://sites.google.com/view/yotam-amitai](Yotam Amitai)
+* [Yotam Amitai](https://sites.google.com/view/yotam-amitai)
 * Or Rivlin (co-supervised with Tamir Hazan)
 * Chana Ross (co-supervised with Tamir Hazan)
 * Sagitt Efrat
