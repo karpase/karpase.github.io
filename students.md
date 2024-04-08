@@ -3,8 +3,6 @@ layout: page
 title: Students
 permalink: /students/
 ---
-# Students
-
 ## Current Postdocs
 
 * Dimitry Ivanov
