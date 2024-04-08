@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# About Me
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am an associate professor at the Faculty of Data and Decision Sciences, Technion – Israel Institute of Technology.
+My main research interests are artificial intelligence and robotics.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Prior to that I was a postdoctoral associate at the Model-based Embedded and Robotics Systems Group at MIT, under the supervision of Prof. Brian Williams. and before that, I was a research fellow and the research coordinator of the Technion-Microsoft Electronic-Commerce Research Center, under Prof. Moshe Tennenholtz. I completed my Ph.D. under the supervision of Prof. Carmel Domshlak and Prof. Shaul Markovitch at the Faculty of Industrial Engineering and Management at the Technion – Israel Institute of Technology.
