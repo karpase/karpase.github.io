@@ -3,7 +3,7 @@ layout: page
 title: Students
 permalink: /students/
 ---
-#Students
+# Students
 
 ## Current Postdocs
 
@@ -42,7 +42,7 @@ permalink: /students/
   
 ### Former MSc Students
 
-* Yotam Amitai
+* (https://sites.google.com/view/yotam-amitai)[Yotam Amitai]
 * Or Rivlin (co-supervised with Tamir Hazan)
 * Chana Ross (co-supervised with Tamir Hazan)
 * Sagitt Efrat
