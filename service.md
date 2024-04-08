@@ -5,7 +5,7 @@ permalink: /Service/
 ---
 
 ## Professional Societies
-* Israeli Association for Artificial Intelligence, Chairperson
+* [Israeli Association for Artificial Intelligence](https://www.iaai.org.il/), Chairperson
 
 ## Editorial Duties
 * Journal of Artificial Intelligence Research (JAIR), Associate Editor
