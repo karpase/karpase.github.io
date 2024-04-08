@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
 I am an associate professor at the Faculty of Data and Decision Sciences, Technion – Israel Institute of Technology.
 My main research interests are artificial intelligence and robotics.
 
