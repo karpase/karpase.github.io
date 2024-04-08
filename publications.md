@@ -17,11 +17,6 @@ permalink: /publications/
 * Proceedings of the Thirtieth International Conference on Automated Planning and Scheduling, Nancy, France, October 26-30, 2020
   J. Christopher Beck, Olivier Buffet, Jörg Hoffmann, Erez Karpas, Shirin Sohrabi
 
-## Journals  
+## Publications  
 
 {% bibliography %}
-
-
-## Conferences
-
-## Workshops
